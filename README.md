@@ -4,7 +4,7 @@
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=toki-plus&repo=ai-ttv-workflow&theme=dark&show_owner=true" />
 </a>
 
-**前四大网络安全顾问 | Python自动化解决方案专家**
+**前四大 (KPMG) 网络安全顾问 | Python自动化解决方案专家**
 
 我专注于为内容创作者和跨境业务提供降本增效的定制化工具。
 
