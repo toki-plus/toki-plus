@@ -24,3 +24,27 @@
 - **[AI-TTV-Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: AI驱动的文本转视频工作流，自动化内容创作。
 - **[Video Mover](https://github.com/toki-plus/video-mover)**: 全自动视频搬运、去重与发布流水线。
 - **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: 基于高帧率混合技术的视频去重工具。
+
+---
+
+<p align="center">
+  <strong>For technical inquiries, please connect via:</strong>
+</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/wechat.png" alt="WeChat QR Code" width="200"/>
+      <br />
+      <sub><b>WeChat</b></sub>
+      <br />
+      <sub>ID: toki-plus (Note: "GitHub Customization")</sub>
+    </td>
+    <td align="center">
+      <img src="./assets/gzh.png" alt="Public Account QR Code" width="200"/>
+      <br />
+      <sub><b>Public Account</b></sub>
+      <br />
+      <sub>Scan for tech articles & project updates</sub>
+    </td>
+  </tr>
+</table>
