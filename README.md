@@ -28,23 +28,23 @@
 ---
 
 <p align="center">
-  <strong>For technical inquiries, please connect via:</strong>
+  <strong>技术交流，请添加：</strong>
 </p>
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./assets/wechat.png" alt="WeChat QR Code" width="200"/>
+      <img src="./assets/images/wechat.png" alt="微信二维码" width="200"/>
       <br />
-      <sub><b>WeChat</b></sub>
+      <sub><b>个人微信</b></sub>
       <br />
-      <sub>ID: toki-plus (Note: "GitHub Customization")</sub>
+      <sub>微信号: toki-plus (请备注“GitHub”)</sub>
     </td>
     <td align="center">
-      <img src="./assets/gzh.png" alt="Public Account QR Code" width="200"/>
+      <img src="./assets/images/gzh.png" alt="公众号二维码" width="200"/>
       <br />
-      <sub><b>Public Account</b></sub>
+      <sub><b>公众号</b></sub>
       <br />
-      <sub>Scan for tech articles & project updates</sub>
+      <sub>获取最新技术分享与项目更新</sub>
     </td>
   </tr>
 </table>
