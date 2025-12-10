@@ -39,6 +39,14 @@
   <table>
     <tr>
       <td width="80%">
+        <strong><a href="https://github.com/toki-plus/auto-usps-tracker">🚚 USPS批量物流追踪器</a></strong><br>
+        专为跨境电商卖家设计的高效USPS批量物流追踪器，支持防屏蔽抓取并生成精美Excel报告。
+      </td>
+      <td><img src="https://img.shields.io/badge/物流追踪-4CAF50?style=flat-square&logo=usps&logoColor=white" alt="物流追踪"/></td>
+    </tr>
+    <tr><td colspan="2"><br></td></tr>
+    <tr>
+      <td width="80%">
         <strong><a href="https://github.com/toki-plus/ai-mixed-cut">🧬 AI Mixed Cut</a></strong><br>
         通过“解构-重构”模式解析爆款视频，建立创作素材库，并全自动生成全新原创短视频。
       </td>
