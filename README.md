@@ -34,8 +34,17 @@
 ---
 
 ### 🚀 开源项目 | My Open Source Projects
+
 <div align="left">
   <table>
+    <tr>
+      <td width="80%">
+        <strong><a href="https://github.com/toki-plus/ai-mixed-cut">🧬 AI Mixed-Cut</a></strong><br>
+        一款颠覆性的AI内容生产工具，通过“解构-重构”模式将爆款视频解构成创作素材库，并全自动生成全新原创视频。
+      </td>
+      <td><img src="https://img.shields.io/badge/内容再创作-FF9800?style=flat-square&logo=remix&logoColor=white" alt="内容再创作"/></td>
+    </tr>
+    <tr><td colspan="2"><br></td></tr>
     <tr>
       <td width="80%">
         <strong><a href="https://github.com/toki-plus/ai-video-workflow">🎬 AI Video Workflow</a></strong><br>
@@ -49,7 +58,7 @@
         <strong><a href="https://github.com/toki-plus/ai-highlight-clip">✨ AI Highlight Clip</a></strong><br>
         AI驱动的智能剪辑工具，全自动从长视频分析、提取“高光时刻”，并生成爆款标题。
       </td>
-      <td><img src="https://img.shields.io/badge/视频剪辑-4ECDC4?style=flat-square&logo=video&logoColor=white" alt="视频剪辑"/></td>
+      <td><img src="https://img.shields.io/badge/视频剪辑-4ECDC4?style=flat-square&logo=ffmpeg&logoColor=white" alt="视频剪辑"/></td>
     </tr>
     <tr><td colspan="2"><br></td></tr>
     <tr>
