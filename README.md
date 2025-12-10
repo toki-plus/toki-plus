@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Toki
 
-<a href="https://github.com/toki-plus/ai-ttv-workflow">
+<!-- <a href="https://github.com/toki-plus/ai-ttv-workflow">
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=toki-plus&repo=ai-ttv-workflow&theme=dark&show_owner=true" />
-</a>
+</a> -->
 
 **前四大 (KPMG) 网络安全顾问 | Python自动化解决方案专家**
 
