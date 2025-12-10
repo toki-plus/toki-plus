@@ -62,18 +62,18 @@
     <tr><td colspan="2"><br></td></tr>
     <tr>
       <td width="80%">
-        <strong><a href="https://github.com/toki-plus/video-mover">📥 Video Mover</a></strong><br>
-        全自动化内容创作流水线，自动监听下载视频、多维度去重、AI生成标题，一键发布多平台。
-      </td>
-      <td><img src="https://img.shields.io/badge/自动化-2196F3?style=flat-square&logo=github-actions&logoColor=white" alt="自动化"/></td>
-    </tr>
-    <tr><td colspan="2"><br></td></tr>
-    <tr>
-      <td width="80%">
         <strong><a href="https://github.com/toki-plus/AB-Video-Deduplicator">🔍 AB Video Deduplicator</a></strong><br>
         创新“高帧率抽帧混合”技术，重构视频数据指纹，规避短视频平台原创度检测/查重机制。
       </td>
       <td><img src="https://img.shields.io/badge/视频去重-E91E63?style=flat-square&logo=shield&logoColor=white" alt="视频去重"/></td>
+    </tr>
+    <tr><td colspan="2"><br></td></tr>
+    <tr>
+      <td width="80%">
+        <strong><a href="https://github.com/toki-plus/video-mover">📥 Video Mover</a></strong><br>
+        全自动化内容创作流水线，自动监听下载视频、多维度去重、AI生成标题，一键发布多平台。
+      </td>
+      <td><img src="https://img.shields.io/badge/自动化-2196F3?style=flat-square&logo=github-actions&logoColor=white" alt="自动化"/></td>
     </tr>
   </table>
 </div>
