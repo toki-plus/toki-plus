@@ -39,8 +39,8 @@
   <table>
     <tr>
       <td width="80%">
-        <strong><a href="https://github.com/toki-plus/ai-mixed-cut">🧬 AI Mixed-Cut</a></strong><br>
-        一款颠覆性的AI内容生产工具，通过“解构-重构”模式将爆款视频解构成创作素材库，并全自动生成全新原创视频。
+        <strong><a href="https://github.com/toki-plus/ai-mixed-cut">🧬 AI Mixed Cut</a></strong><br>
+        通过“解构-重构”模式解析爆款视频，建立创作素材库，并全自动生成全新原创短视频。
       </td>
       <td><img src="https://img.shields.io/badge/内容再创作-FF9800?style=flat-square&logo=remix&logoColor=white" alt="内容再创作"/></td>
     </tr>
