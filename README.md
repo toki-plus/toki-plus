@@ -39,7 +39,7 @@
   <table>
     <tr>
       <td width="80%">
-        <strong><a href="https://github.com/toki-plus/auto-usps-tracker">🚚 USPS批量物流追踪器</a></strong><br>
+        <strong><a href="https://github.com/toki-plus/auto-usps-tracker">🚚 Auto USPS Tracker</a></strong><br>
         专为跨境电商卖家设计的高效USPS批量物流追踪器，支持防屏蔽抓取并生成精美Excel报告。
       </td>
       <td><img src="https://img.shields.io/badge/物流追踪-4CAF50?style=flat-square&logo=usps&logoColor=white" alt="物流追踪"/></td>
