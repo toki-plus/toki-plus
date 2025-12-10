@@ -1,11 +1,5 @@
 ### 👋 Hi there, I'm Toki
 
-<!-- 替换失效卡片，使用更稳定的 GitHub 统计卡片 -->
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=toki-plus&show_icons=true&theme=dark&count_private=true&hide_border=true" width="400" alt="Toki's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toki-plus&layout=compact&theme=dark&hide_border=true&langs_count=6" width="400" alt="Top Languages"/>
-</div>
-
 ### 🎯 关于我 | About Me
 <p align="left">
   <strong>前四大 (KPMG) 网络安全顾问 | Python自动化解决方案专家</strong><br>
