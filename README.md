@@ -39,6 +39,14 @@
   <table>
     <tr>
       <td width="80%">
+        <strong><a href="https://github.com/toki-plus/ai-trader-for-mt4">🤖 AI-Trader-For-MT4</a></strong><br>
+        革命性开源框架，将大语言模型（LLM）转变为能在MetaTrader 4（MT4）平台上进行自主交易的AI代理。
+      </td>
+      <td><img src="https://img.shields.io/badge/AI交易-00A693?style=flat-square&logo=meta&logoColor=white" alt="AI交易"/></td>
+    </tr>
+    <tr><td colspan="2"><br></td></tr>
+    <tr>
+      <td width="80%">
         <strong><a href="https://github.com/toki-plus/auto-usps-tracker">🚚 Auto USPS Tracker</a></strong><br>
         专为跨境电商卖家设计的高效USPS批量物流追踪器，支持防屏蔽抓取并生成精美Excel报告。
       </td>
