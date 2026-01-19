@@ -5,7 +5,7 @@
 <div align="center">
   <h1>👋 Hi there, I'm Toki</h1>
   <p><strong>前四大 (KPMG) 网络安全顾问 | Python自动化解决方案专家</strong></p>
-  <p>🚀 专注于为自媒体、电商、金融等领域提供降本增效的定制化工具，聚焦 AIGC+自动化 领域</p>
+  <p>🚀 专注于为自媒体、电商、金融等领域提供降本增效的定制化工具，聚焦 `AIGC+自动化` 领域</p>
 </div>
 
 <!-- Social Links -->
