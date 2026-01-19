@@ -1,6 +1,6 @@
 <!-- 1. Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/header_banner.png" alt="Header Banner" width="900"/>
+  <img src="./images/header_banner.png" alt="Header Banner" width="900"/>
 </p>
 <div align="center">
   <h1>👋 Hi there, I'm Toki</h1>
@@ -41,7 +41,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/toki-plus/ai-trader-for-mt4" target="_blank">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/project_ai_trader.png" alt="AI-Trader-For-MT4 Showcase" width="800">
+        <img src="./images/project_ai_trader.png" alt="AI-Trader-For-MT4 Showcase" width="800">
       </a>
       <br><br>
       <h3><a href="https://github.com/toki-plus/ai-trader-for-mt4" target="_blank">🤖 AI Trader For MT4</a></h3>
@@ -63,7 +63,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/toki-plus/auto-usps-tracker" target="_blank">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/project_usps_tracker.png" alt="Auto USPS Tracker Showcase" width="800">
+        <img src="./images/project_usps_tracker.png" alt="Auto USPS Tracker Showcase" width="800">
       </a>
       <br><br>
       <h3><a href="https://github.com/toki-plus/auto-usps-tracker" target="_blank">🚚 Auto USPS Tracker</a></h3>
@@ -85,7 +85,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/toki-plus/ai-mixed-cut" target="_blank">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/project_mixed_cut.png" alt="AI Mixed Cut Showcase" width="800">
+        <img src="./images/project_mixed_cut.png" alt="AI Mixed Cut Showcase" width="800">
       </a>
       <br><br>
       <h3><a href="https://github.com/toki-plus/ai-mixed-cut" target="_blank">🧬 AI Mixed Cut</a></h3>
@@ -107,7 +107,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/toki-plus/ai-video-workflow" target="_blank">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/project_video_workflow.png" alt="AI Video Workflow Showcase" width="800">
+        <img src="./images/project_video_workflow.png" alt="AI Video Workflow Showcase" width="800">
       </a>
       <br><br>
       <h3><a href="https://github.com/toki-plus/ai-video-workflow" target="_blank">🎬 AI Video Workflow</a></h3>
@@ -129,7 +129,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/toki-plus/ai-highlight-clip" target="_blank">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/project_highlight_clip.png" alt="AI Highlight Clip Showcase" width="800">
+        <img src="./images/project_highlight_clip.png" alt="AI Highlight Clip Showcase" width="800">
       </a>
       <br><br>
       <h3><a href="https://github.com/toki-plus/ai-highlight-clip" target="_blank">✨ AI Highlight Clip</a></h3>
@@ -150,7 +150,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/toki-plus/ai-ttv-workflow" target="_blank">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/project_ttv_workflow.png" alt="AI TTV Workflow Showcase" width="800">
+        <img src="./images/project_ttv_workflow.png" alt="AI TTV Workflow Showcase" width="800">
       </a>
       <br><br>
       <h3><a href="https://github.com/toki-plus/ai-ttv-workflow" target="_blank">📝 AI TTV Workflow</a></h3>
@@ -171,7 +171,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/toki-plus/AB-Video-Deduplicator" target="_blank">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/project_ab_deduplicator.png" alt="AB Video Deduplicator Showcase" width="800">
+        <img src="./images/project_ab_deduplicator.png" alt="AB Video Deduplicator Showcase" width="800">
       </a>
       <br><br>
       <h3><a href="https://github.com/toki-plus/AB-Video-Deduplicator" target="_blank">🔍 AB Video Deduplicator</a></h3>
@@ -192,7 +192,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/toki-plus/video-mover" target="_blank">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/project_video_mover.png" alt="Video Mover Showcase" width="800">
+        <img src="./images/project_video_mover.png" alt="Video Mover Showcase" width="800">
       </a>
       <br><br>
       <h3><a href="https://github.com/toki-plus/video-mover" target="_blank">📥 Video Mover</a></h3>
@@ -232,14 +232,14 @@
   <table align="center" style="border: none; background: transparent;">
     <tr>
       <td align="center" style="border: none; padding: 0 20px;">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/wechat.png" alt="微信二维码" width="180" style="border-radius: 12px;"/>
+        <img src="./images/wechat.png" alt="微信二维码" width="180" style="border-radius: 12px;"/>
         <br />
         <sub><b>个人微信</b></sub>
         <br />
         <sub style="color: #888;">toki-plus (备注“GitHub”)</sub>
       </td>
       <td align="center" style="border: none; padding: 0 20px;">
-        <img src="https://raw.githubusercontent.com/toki-plus/toki-plus/main/assets/gzh.png" alt="公众号二维码" width="180" style="border-radius: 12px;"/>
+        <img src="./images/gzh.png" alt="公众号二维码" width="180" style="border-radius: 12px;"/>
         <br />
         <sub><b>公众号</b></sub>
         <br />
