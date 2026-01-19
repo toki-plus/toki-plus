@@ -36,7 +36,27 @@
 <h2 align="center">🚀 我的作品展 | My Project Gallery</h2>
 <p align="center">每一个项目都是为了解决一个真实世界的问题而精心打造的。</p>
 
-<!-- Project Card 1: AI-Trader-For-MT4 -->
+<!-- Project Card 9: Netease Downloader -->
+<table align="center" width="800">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/toki-plus/netease-downloader" target="_blank">
+        <img src="./images/09_netease-downloader.png" alt="Netease Downloader Showcase" width="800">
+      </a>
+      <br><br>
+      <h3><a href="https://github.com/toki-plus/netease-downloader" target="_blank">🎵 Netease Downloader</a></h3>
+      <p>一款优雅、高效的网易云音乐下载工具，支持扫码登录、多音质选择，并能自动写入ID3元数据和专辑封面。</p>
+      <p>
+        <img src="https://img.shields.io/badge/音乐下载-D81E06?style=flat-square" alt="音乐下载"/>
+        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square" alt="PyQt5"/>
+        <img src="https://img.shields.io/badge/API-1E90FF?style=flat-square" alt="API"/>
+        <img src="https://img.shields.io/badge/多线程-FFC107?style=flat-square" alt="多线程"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Project Card 8: AI-Trader-For-MT4 -->
 <table align="center" width="800">
   <tr>
     <td align="center">
@@ -58,7 +78,7 @@
 
 ---
 
-<!-- Project Card 2: Auto USPS Tracker -->
+<!-- Project Card 7: Auto USPS Tracker -->
 <table align="center" width="800">
   <tr>
     <td align="center">
@@ -80,7 +100,7 @@
 
 ---
 
-<!-- Project Card 3: AI Mixed Cut -->
+<!-- Project Card 6: AI Mixed Cut -->
 <table align="center" width="800">
   <tr>
     <td align="center">
@@ -102,7 +122,7 @@
 
 ---
 
-<!-- Project Card 4: AI Video Workflow -->
+<!-- Project Card 5: AI Video Workflow -->
 <table align="center" width="800">
   <tr>
     <td align="center">
@@ -124,7 +144,7 @@
 
 ---
 
-<!-- Project Card 5: AI Highlight Clip -->
+<!-- Project Card 4: AI Highlight Clip -->
 <table align="center" width="800">
   <tr>
     <td align="center">
@@ -145,7 +165,7 @@
 
 ---
 
-<!-- Project Card 6: AI TTV Workflow -->
+<!-- Project Card 3: AI TTV Workflow -->
 <table align="center" width="800">
   <tr>
     <td align="center">
@@ -166,7 +186,7 @@
 
 ---
 
-<!-- Project Card 7: AB Video Deduplicator -->
+<!-- Project Card 2: AB Video Deduplicator -->
 <table align="center" width="800">
   <tr>
     <td align="center">
@@ -187,7 +207,7 @@
 
 ---
 
-<!-- Project Card 8: Video Mover -->
+<!-- Project Card 1: Video Mover -->
 <table align="center" width="800">
   <tr>
     <td align="center">
