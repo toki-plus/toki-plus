@@ -1,7 +1,4 @@
 <!-- 1. Header Banner -->
-<p align="center">
-  <img src="./images/banner.png" alt="Header Banner" width="800"/>
-</p>
 <div align="center">
   <h1>👋 Hi there, I'm Toki</h1>
   <p><strong>前四大 (KPMG) 网络安全顾问 | Python自动化解决方案专家</strong></p>
