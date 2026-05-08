@@ -253,7 +253,7 @@
         <br />
         <sub><b>个人微信</b></sub>
         <br />
-        <sub style="color: #888;">toki-plus (备注“GitHub”)</sub>
+        <sub style="color: #888;">toki-plus<br/>（请备注来意，否则不通过）</sub>
       </td>
       <td align="center" style="border: none; padding: 0 20px;">
         <img src="./images/gzh.png" alt="公众号二维码" width="180" style="border-radius: 12px;"/>
