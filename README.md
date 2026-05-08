@@ -1,7 +1,7 @@
 <!-- 1. Header Banner -->
 <div align="center">
   <h1>👋 Hi there, I'm Toki</h1>
-  <p><strong>Python自动化解决方案专家</strong></p>
+  <p><strong>前四大 (KPMG) 网络安全顾问 | Python自动化解决方案专家</strong></p>
   <p>🚀 专注于为自媒体、电商、金融等领域从业者提供降本增效的定制化工具，聚焦AIGC+自动化领域</p>
 </div>
 
@@ -32,7 +32,6 @@
 <!-- 3. My Open Source Projects -->
 <h2 align="center">🚀 我的作品展 | My Project Gallery</h2>
 <p align="center">每一个项目都是为了解决一个真实世界的问题而精心打造的。</p>
-
 <!-- Project Card 9: Netease Downloader -->
 <table align="center" width="800">
   <tr>
@@ -234,8 +233,11 @@
 <!-- 4. GitHub Stats -->
 <h2 align="center">📊 GitHub 统计 | My GitHub Stats</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toki-plus&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=cn&hide_rank=true&hide=issues,prs,contribs" alt="Toki's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toki-plus&layout=compact&theme=tokyonight&hide_border=true&locale=cn&hide=javascript,css,dockerfile,batchfile" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toki-plus&theme=tokyonight" alt="Toki's GitHub Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toki-plus&theme=tokyonight&exclude=javascript,css,dockerfile,batchfile" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toki-plus&theme=tokyonight&exclude=javascript,css,dockerfile,batchfile" alt="Most Commit Language" />
 </p>
 
 ---
@@ -253,7 +255,9 @@
         <br />
         <sub><b>个人微信</b></sub>
         <br />
-        <sub style="color: #888;">toki-plus<br/>（请备注来意，否则不通过）</sub>
+        <sub style="color: #888;">toki-plus</sub>
+        <br />
+        <sub style="color: #888;">（请备注来意，否则不通过）</sub>
       </td>
       <td align="center" style="border: none; padding: 0 20px;">
         <img src="./images/gzh.png" alt="公众号二维码" width="180" style="border-radius: 12px;"/>
