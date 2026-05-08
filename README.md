@@ -1,7 +1,7 @@
 <!-- 1. Header Banner -->
 <div align="center">
   <h1>👋 Hi there, I'm Toki</h1>
-  <p><strong>Python自动化解决方案专家</strong></p>
+  <p><strong>Python自动化解决方案专家 | EA量化策略开发专家 | 业务咨询（请备注来意，否则不通过）：toki-plus</strong></p>
   <p>🚀 专注于为金融、自媒体、电商等领域从业者提供降本增效的定制化工具，聚焦AIGC+自动化领域</p>
 </div>
 
