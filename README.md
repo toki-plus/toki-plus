@@ -19,12 +19,19 @@
 <h2 align="center">🛠️ 技术栈 | My Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MQL4%2FMQL5-00A693?style=for-the-badge&logo=metatrader&logoColor=white" alt="MQL4/MQL5"/>
+  <img src="https://img.shields.io/badge/MT4%2FMT5-007BFF?style=for-the-badge&logo=metatrader&logoColor=white" alt="MT4/MT5"/>
+  <img src="https://img.shields.io/badge/EA工程化-4A90E2?style=for-the-badge&logo=target&logoColor=white" alt="EA Engineering"/>
+  <img src="https://img.shields.io/badge/量化交易-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Quantitative Trading"/>
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MCP_Server-6F42C1?style=for-the-badge&logo=serverless&logoColor=white" alt="MCP Server"/>
+  <img src="https://img.shields.io/badge/LLM_Agent-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agent"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/LLM-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/AIGC-FF6B6B?style=for-the-badge&logo=sparkles&logoColor=white" alt="AIGC"/>
 </p>
 
 ---
