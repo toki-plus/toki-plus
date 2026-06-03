@@ -32,6 +32,28 @@
 <!-- 3. My Open Source Projects -->
 <h2 align="center">🚀 我的作品展 | My Project Gallery</h2>
 <p align="center">每一个项目都是为了解决一个真实世界的问题而精心打造的。</p>
+<!-- Project Card 10: AI-Trader-For-MT5 -->
+<table align="center" width="800">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/toki-plus/ai-trader-for-mt5" target="_blank">
+        <img src="./images/10_ai_trader_mt5.png" alt="AI-Trader-For-MT5 Showcase" width="800">
+      </a>
+      <br><br>
+      <h3><a href="https://github.com/toki-plus/ai-trader-for-mt5" target="_blank">🤖 AI Trader For MT5</a></h3>
+      <p>面向 MetaTrader 5 的 AI 交易助手与 EA 工程化框架，支持 MQL5、Python、MCP 工具服务、风控模块和私有化定制开发。</p>
+      <p>
+        <img src="https://img.shields.io/badge/MT5-1E88E5?style=flat-square" alt="MT5"/>
+        <img src="https://img.shields.io/badge/MQL5-00A693?style=flat-square" alt="MQL5"/>
+        <img src="https://img.shields.io/badge/EA工程化-4A90E2?style=flat-square" alt="EA工程化"/>
+        <img src="https://img.shields.io/badge/AI交易助手-9C27B0?style=flat-square" alt="AI交易助手"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <!-- Project Card 9: Netease Downloader -->
 <table align="center" width="800">
   <tr>
