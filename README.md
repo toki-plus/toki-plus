@@ -1,308 +1,67 @@
-<!-- 1. Header Banner -->
-<div align="center">
-  <h1>👋 Hi there, I'm Toki</h1>
-  <p><strong>Python自动化 | EA量化策略开发 | 业务咨询（请备注来意，否则不通过）：toki-plus</strong></p>
-  <p>🚀 专注于为金融、自媒体、电商等领域从业者提供降本增效的定制化工具，聚焦AIGC+自动化领域</p>
-</div>
+# Hi, I'm Toki
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://github.com/toki-plus" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://llxoxll.com" target="_blank"><img src="https://img.shields.io/badge/Store-4CAF50?style=for-the-badge&logo=shopify&logoColor=white" alt="个人商店"></a>
-  <a href="https://b23.tv/NUpEavM" target="_blank"><img src="https://img.shields.io/badge/Bilibili-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"></a>
-  <a href="https://blog.toki.plus" target="_blank"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=rss&logoColor=white" alt="个人博客"></a>
-</p>
+**Business-to-Technology Solution Builder**
 
----
+Enterprise IT & Security · AI-enabled Workflows · Technical Feasibility · Solution Delivery
 
-<!-- 2. My Tech Stack -->
-<h2 align="center">🛠️ 技术栈 | My Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MQL4%2FMQL5-00A693?style=for-the-badge&logo=metatrader&logoColor=white" alt="MQL4/MQL5"/>
-  <img src="https://img.shields.io/badge/MT4%2FMT5-007BFF?style=for-the-badge&logo=metatrader&logoColor=white" alt="MT4/MT5"/>
-  <img src="https://img.shields.io/badge/EA工程化-4A90E2?style=for-the-badge&logo=target&logoColor=white" alt="EA Engineering"/>
-  <img src="https://img.shields.io/badge/量化交易-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Quantitative Trading"/>
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/MCP_Server-6F42C1?style=for-the-badge&logo=serverless&logoColor=white" alt="MCP Server"/>
-  <img src="https://img.shields.io/badge/LLM_Agent-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agent"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/AIGC-FF6B6B?style=for-the-badge&logo=sparkles&logoColor=white" alt="AIGC"/>
-</p>
+我关注如何把不完整的业务需求转化为可验证、可实施的工具与工作流。技术是解决问题的手段；我更重视需求澄清、方案取舍、风险边界、交付结果以及技术与业务之间的协作。
 
----
+I focus on translating ambiguous business needs into testable and implementable tools and workflows. Technology is a means to solve the problem; the work also requires requirement discovery, solution trade-offs, risk boundaries, delivery, and communication between business and technical teams.
 
-<!-- 3. My Open Source Projects -->
-<h2 align="center">🚀 我的作品展 | My Project Gallery</h2>
-<p align="center">每一个项目都是为了解决一个真实世界的问题而精心打造的。</p>
-<!-- Project Card 10: AI-Trader-For-MT5 -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/ai-trader-for-mt5" target="_blank">
-        <img src="./images/10_ai_trader_mt5.png" alt="AI-Trader-For-MT5 Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/ai-trader-for-mt5" target="_blank">🤖 AI Trader For MT5</a></h3>
-      <p>面向 MetaTrader 5 的 AI 交易助手与 EA 工程化框架，支持 MQL5、Python、MCP 工具服务、风控模块和私有化定制开发。</p>
-      <p>
-        <img src="https://img.shields.io/badge/MT5-1E88E5?style=flat-square" alt="MT5"/>
-        <img src="https://img.shields.io/badge/MQL5-00A693?style=flat-square" alt="MQL5"/>
-        <img src="https://img.shields.io/badge/EA工程化-4A90E2?style=flat-square" alt="EA工程化"/>
-        <img src="https://img.shields.io/badge/AI交易助手-9C27B0?style=flat-square" alt="AI交易助手"/>
-      </p>
-    </td>
-  </tr>
-</table>
+## Background
 
----
+- Enterprise IT operations, incident response, monitoring, and security operations in the aviation industry
+- Cybersecurity consulting and enterprise project delivery experience at KPMG
+- Hands-on exploration of AI, automation, desktop applications, and cross-system workflows
+- Network Engineering background with experience across security, operations, and solution implementation
 
-<!-- Project Card 9: Netease Downloader -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/netease-downloader" target="_blank">
-        <img src="./images/09_netease-downloader.png" alt="Netease Downloader Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/netease-downloader" target="_blank">🎵 Netease Downloader</a></h3>
-      <p>一款优雅、高效的网易云音乐下载工具，支持扫码登录、多音质选择，并能自动写入ID3元数据和专辑封面。</p>
-      <p>
-        <img src="https://img.shields.io/badge/音乐下载-D81E06?style=flat-square" alt="音乐下载"/>
-        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square" alt="PyQt5"/>
-        <img src="https://img.shields.io/badge/API-1E90FF?style=flat-square" alt="API"/>
-        <img src="https://img.shields.io/badge/多线程-FFC107?style=flat-square" alt="多线程"/>
-      </p>
-    </td>
-  </tr>
-</table>
+## Selected Solution Work
 
-<!-- Project Card 8: AI-Trader-For-MT4 -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/ai-trader-for-mt4" target="_blank">
-        <img src="./images/08_ai_trader.png" alt="AI-Trader-For-MT4 Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/ai-trader-for-mt4" target="_blank">🤖 AI Trader For MT4</a></h3>
-      <p>革命性开源框架，将大语言模型（LLM）转变为能在MetaTrader 4（MT4）平台上进行自主交易的AI代理。</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI交易-00A693?style=flat-square" alt="AI交易"/>
-        <img src="https://img.shields.io/badge/LLM Agent-4A90E2?style=flat-square" alt="LLM Agent"/>
-        <img src="https://img.shields.io/badge/量化金融-F7931A?style=flat-square" alt="量化金融"/>
-        <img src="https://img.shields.io/badge/MT4-007BFF?style=flat-square" alt="MT4"/>
-      </p>
-    </td>
-  </tr>
-</table>
+### [Video Mover](https://github.com/toki-plus/video-mover)
+
+A configurable content-operations workflow combining file monitoring, media processing, metadata generation, scheduling, and platform adapters.
+
+**Focus:** workflow decomposition, cross-system integration, task orchestration, and operational boundaries.
+
+### [AI Highlight Clip](https://github.com/toki-plus/ai-highlight-clip)
+
+An AI-assisted workflow that turns long-form video into candidate clips through transcription, structured scoring, timeline selection, and FFmpeg processing.
+
+**Focus:** unstructured-content processing, human review points, and end-to-end workflow design.
+
+### [AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)
+
+A desktop text-to-video workflow connecting copy preparation, speech synthesis, subtitle generation, visual configuration, and rendering.
+
+**Focus:** service boundaries, repeatable production steps, and human-in-the-loop automation.
+
+### [Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)
+
+A sanitized case study of batch shipment-status collection, exception handling, normalization, and Excel reporting for cross-border e-commerce operations.
+
+**Focus:** business-process automation, data quality, external-service reliability, and operational reporting.
+
+## Additional Technical Explorations
+
+- [AI Video Workflow](https://github.com/toki-plus/ai-video-workflow) — multi-model orchestration across prompt, image, video, and music services
+- [AI Trader for MT4](https://github.com/toki-plus/ai-trader-for-mt4) — constrained agent tools, risk rules, state management, and controlled execution
+- [Netease Downloader](https://github.com/toki-plus/netease-downloader) — desktop API integration, authentication state, background tasks, and media metadata
+
+## How I Approach a Problem
+
+```text
+Clarify the real need
+    -> Identify constraints and risks
+    -> Evaluate technical feasibility
+    -> Design the workflow and interfaces
+    -> Build or coordinate a testable solution
+    -> Validate, deliver, and iterate
+```
+
+## Current Direction
+
+I am developing toward roles at the intersection of business and technology, including AI solutions, enterprise SaaS solutions, technical consulting, and security solutions. I am particularly interested in work that combines client or business context with solution design, technical judgment, and delivery ownership.
 
 ---
 
-<!-- Project Card 7: Auto USPS Tracker -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/auto-usps-tracker" target="_blank">
-        <img src="./images/07_usps_tracker.png" alt="Auto USPS Tracker Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/auto-usps-tracker" target="_blank">🚚 Auto USPS Tracker</a></h3>
-      <p>专为跨境电商卖家设计的高效USPS批量物流追踪器，支持防屏蔽抓取并生成精美Excel报告。</p>
-      <p>
-        <img src="https://img.shields.io/badge/物流追踪-4CAF50?style=flat-square" alt="物流追踪"/>
-        <img src="https://img.shields.io/badge/跨境电商-FF9900?style=flat-square" alt="跨境电商"/>
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"/>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Project Card 6: AI Mixed Cut -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/ai-mixed-cut" target="_blank">
-        <img src="./images/06_mixed_cut.png" alt="AI Mixed Cut Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/ai-mixed-cut" target="_blank">🧬 AI Mixed Cut</a></h3>
-      <p>通过“解构-重构”模式解析爆款视频，建立创作素材库，并全自动生成全新原创短视频。</p>
-      <p>
-        <img src="https://img.shields.io/badge/内容再创作-FF9800?style=flat-square" alt="内容再创作"/>
-        <img src="https://img.shields.io/badge/AIGC-FF6B6B?style=flat-square" alt="AIGC"/>
-        <img src="https://img.shields.io/badge/视频矩阵-E91E63?style=flat-square" alt="视频矩阵"/>
-        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square" alt="FFmpeg"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Project Card 5: AI Video Workflow -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/ai-video-workflow" target="_blank">
-        <img src="./images/05_video_workflow.png" alt="AI Video Workflow Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/ai-video-workflow" target="_blank">🎬 AI Video Workflow</a></h3>
-      <p>全自动AI原生视频生成工作流，集成文生图、图生视频和文生音乐模型，一键创作AIGC短视频。</p>
-      <p>
-        <img src="https://img.shields.io/badge/AIGC-FF6B6B?style=flat-square" alt="AIGC"/>
-        <img src="https://img.shields.io/badge/文生视频-9C27B0?style=flat-square" alt="文生视频"/>
-        <img src="https://img.shields.io/badge/工作流-2196F3?style=flat-square" alt="工作流"/>
-        <img src="https://img.shields.io/badge/GenAI-4CAF50?style=flat-square" alt="GenAI"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Project Card 4: AI Highlight Clip -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/ai-highlight-clip" target="_blank">
-        <img src="./images/04_highlight_clip.png" alt="AI Highlight Clip Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/ai-highlight-clip" target="_blank">✨ AI Highlight Clip</a></h3>
-      <p>AI驱动的智能剪辑工具，全自动从长视频分析、提取“高光时刻”，并生成爆款标题。</p>
-      <p>
-        <img src="https://img.shields.io/badge/智能剪辑-4ECDC4?style=flat-square" alt="智能剪辑"/>
-        <img src="https://img.shields.io/badge/OpenAI Whisper-5C3EE8?style=flat-square" alt="OpenAI Whisper"/>
-        <img src="https://img.shields.io/badge/内容分发-FF9800?style=flat-square" alt="内容分发"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Project Card 3: AI TTV Workflow -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/ai-ttv-workflow" target="_blank">
-        <img src="./images/03_ttv_workflow.png" alt="AI TTV Workflow Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/ai-ttv-workflow" target="_blank">📝 AI TTV Workflow</a></h3>
-      <p>AI驱动的文本转视频工具，自动将文案转化为带配音、字幕和封面的短视频，支持文案提取/二创/翻译。</p>
-      <p>
-        <img src="https://img.shields.io/badge/文本转视频-9C27B0?style=flat-square" alt="文本转视频"/>
-        <img src="https://img.shields.io/badge/TTS-007BFF?style=flat-square" alt="TTS"/>
-        <img src="https://img.shields.io/badge/自动化-2196F3?style=flat-square" alt="自动化"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Project Card 2: AB Video Deduplicator -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/AB-Video-Deduplicator" target="_blank">
-        <img src="./images/02_ab_deduplicator.png" alt="AB Video Deduplicator Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/AB-Video-Deduplicator" target="_blank">🔍 AB Video Deduplicator</a></h3>
-      <p>创新“高帧率抽帧混合”技术，重构视频数据指纹，规避短视频平台原创度检测/查重机制。</p>
-      <p>
-        <img src="https://img.shields.io/badge/视频去重-E91E63?style=flat-square" alt="视频去重"/>
-        <img src="https://img.shields.io/badge/帧处理-00BCD4?style=flat-square" alt="帧处理"/>
-        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square" alt="FFmpeg"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Project Card 1: Video Mover -->
-<table align="center" width="800">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/toki-plus/video-mover" target="_blank">
-        <img src="./images/01_video_mover.png" alt="Video Mover Showcase" width="800">
-      </a>
-      <br><br>
-      <h3><a href="https://github.com/toki-plus/video-mover" target="_blank">📥 Video Mover</a></h3>
-      <p>全自动化内容创作流水线，自动监听下载视频、多维度去重、AI生成标题，一键发布多平台。</p>
-      <p>
-        <img src="https://img.shields.io/badge/自动化-2196F3?style=flat-square" alt="自动化"/>
-        <img src="https://img.shields.io/badge/内容创作-FFC107?style=flat-square" alt="内容创作"/>
-        <img src="https://img.shields.io/badge/工作流-4CAF50?style=flat-square" alt="工作流"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/toki-plus?tab=repositories">
-    <img src="https://img.shields.io/badge/查看所有项目-181717?style=for-the-badge&logo=github" alt="View All Projects">
-  </a>
-</p>
-
----
-
-<!-- 4. GitHub Stats -->
-<h2 align="center">📊 GitHub 统计 | My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toki-plus&theme=tokyonight" alt="Toki's GitHub Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toki-plus&theme=tokyonight&exclude=javascript,css,dockerfile,batchfile" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toki-plus&theme=tokyonight&exclude=javascript,css,dockerfile,batchfile" alt="Most Commit Language" />
-</p>
-
----
-
-<!-- 5. Contact Me -->
-<h2 align="center">📞 技术交流 | Let's Connect</h2>
-<p align="center">
-  欢迎添加我的微信或关注公众号，获取最新技术分享与项目更新。
-</p>
-<p align="center">
-  <table align="center" style="border: none; background: transparent;">
-    <tr>
-      <td align="center" style="border: none; padding: 0 20px;">
-        <img src="./images/wechat.png" alt="微信二维码" width="180" style="border-radius: 12px;"/>
-        <br />
-        <sub><b>个人微信</b></sub>
-        <br />
-        <sub style="color: #888;">toki-plus</sub>
-        <br />
-        <sub style="color: #888;">（请备注来意，否则不通过）</sub>
-      </td>
-      <td align="center" style="border: none; padding: 0 20px;">
-        <img src="./images/gzh.png" alt="公众号二维码" width="180" style="border-radius: 12px;"/>
-        <br />
-        <sub><b>公众号</b></sub>
-        <br />
-        <sub style="color: #888;">最新技术与项目分享</sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=持续深耕AIGC➕自动化领域，让技术赋能生产！" alt="Typing SVG"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toki-plus&label=PROFILE+VIEWS&color=0e76a8&style=flat-square" alt="Profile views"/>
-</p>
+The repositories on this profile are technical prototypes and sanitized solution case studies. Each project documents its scope, limitations, and responsible-use boundaries.
