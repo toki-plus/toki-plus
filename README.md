@@ -160,7 +160,6 @@ I am developing toward roles at the intersection of business and technology, inc
 ## 📬 联系方式 | Let's Connect
 
 - 📧 Email: [toki.lai@outlook.com](mailto:toki.lai@outlook.com)
-- 📝 Blog: [blog.toki.plus](https://blog.toki.plus)
 
 ---
 
